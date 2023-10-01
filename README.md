@@ -1,4 +1,5 @@
 # spanish_corpus
+WIP 
 
 Data comes from a corpus of Spanish language web pages (about 2 billion words) found on [corpusdata.org](https://www.corpusdata.org/spanish.asp) ([download](https://www.corpusdata.org/formats.asp)).
 
