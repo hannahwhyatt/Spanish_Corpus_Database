@@ -49,7 +49,7 @@ def create_database():
 
     # read config file
     config = configparser.ConfigParser()
-    config.read(root_path +'private.cfg')
+    config.read(root_path +'config.cfg')
     DB_NAME_DEFAULT = config.get('SQL', 'DB_NAME_DEFAULT')
     DB_USER = config.get('SQL', 'DB_USER')
     DB_PASSW = config.get('SQL', 'DB_PASSW')
