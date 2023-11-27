@@ -4,3 +4,5 @@ This folder contains a script `create_corpus_db.py` to convert these files into 
 ### Notebooks:
 1. `run_create_corpus_and_test.ipynb` to run the script and check the result.
 2. `create_relations.ipynb` defines the foreign keys and tests out some queries.
+
+3. `create_frequency_table.ipynb` calculates the relative frequency of each lemma for each country, and saves these values to a new tables called "frequency" in the database. 
