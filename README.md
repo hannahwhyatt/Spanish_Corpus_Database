@@ -4,5 +4,5 @@ The data are labelled with the country origin for each webpage source, allowing 
 
 I've so far done two things with this data:
 1. Converted the text files into tables in an SQL database, code for which is found in the "create_database" folder.
-2. Visualised the regionality in this data in a Dash; see the repo [here](https://github.com/hannahwhyatt/corpusapp/).
+2. Visualised the regionality in this data in a Dash; see the repo [here](https://github.com/hannahwhyatt/Spanish_Word_Frequency_App).
 
